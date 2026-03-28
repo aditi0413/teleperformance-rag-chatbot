@@ -1,0 +1,98 @@
+# Teleperformance Customer Support Knowledge Base
+
+## BILLING & PAYMENTS
+
+Q: How can I update my payment method?
+A: You can update your payment method by logging into your account portal, navigating to "Billing Settings", and selecting "Update Payment Method". We accept Visa, MasterCard, American Express, and PayPal. Changes take effect immediately for future billing cycles.
+
+Q: My bill seems incorrect. What should I do?
+A: If you believe there is an error on your bill, please gather your invoice number and a description of the discrepancy. Contact our billing team via chat or call 1-800-XXX-XXXX. Our agents will review your account within 24 hours and issue a correction or explanation. You will not be charged during the dispute period.
+
+Q: When will I be charged each month?
+A: Billing occurs on the same date each month as your original sign-up date. If your billing date falls on a weekend or holiday, the charge is processed on the next business day. You will receive an email reminder 3 days before your billing date.
+
+Q: Can I get a refund?
+A: Refunds are available within 30 days of purchase for unused services. Partial refunds are calculated on a pro-rata basis. To request a refund, contact support with your order ID and reason. Refunds are processed within 5-7 business days to your original payment method.
+
+Q: What happens if my payment fails?
+A: If a payment fails, we will retry the charge after 3 days. You will receive an email notification. Your service remains active during this grace period. If the second attempt fails, your account will be temporarily suspended until the payment is resolved. Please update your payment details to avoid interruption.
+
+---
+
+## ACCOUNT & LOGIN
+
+Q: I forgot my password. How do I reset it?
+A: Click "Forgot Password" on the login page and enter your registered email address. You will receive a password reset link within 5 minutes. The link expires after 15 minutes. If you don't receive it, check your spam folder or contact support.
+
+Q: How do I update my account information?
+A: Log in to your account, go to "Profile Settings", and click "Edit". You can update your name, email, phone number, and address. Email changes require verification via a confirmation link sent to your new address.
+
+Q: My account has been locked. What do I do?
+A: Accounts are locked after 5 consecutive failed login attempts for security. Wait 30 minutes for an automatic unlock, or contact our support team with your account email and a government-issued ID for manual verification and unlock.
+
+Q: How do I cancel my account?
+A: To cancel, log in and go to "Account Settings" > "Cancel Subscription". You will be asked for a reason. Your account remains active until the end of the current billing cycle. You can reactivate within 90 days without losing your data.
+
+Q: Can I have multiple users on one account?
+A: Yes. Our Business and Enterprise plans support multiple user seats. The account owner can add users under "Team Management" in the settings panel. Each user gets their own login credentials and role-based permissions.
+
+---
+
+## TECHNICAL SUPPORT
+
+Q: The app is not loading. What should I do?
+A: First, clear your browser cache and cookies, then refresh. Try a different browser or device. Ensure your internet connection is stable. If the issue persists, check our status page at status.company.com for any ongoing outages. You can also contact technical support with your browser version and a screenshot of the error.
+
+Q: How do I report a bug?
+A: To report a bug, go to "Help" > "Report an Issue" in the app, or email bugs@support.company.com. Include your device type, OS version, browser, steps to reproduce the issue, and a screenshot if possible. Our engineering team reviews all reports within 48 hours.
+
+Q: The app is running slowly. How can I fix this?
+A: Slow performance can be caused by browser extensions, a slow network, or heavy local data. Try: disabling browser extensions, clearing cache, switching to Chrome or Edge, or using a wired internet connection. If slow performance persists, contact support and we will investigate from our end.
+
+Q: How do I integrate your service with third-party tools?
+A: We support integrations with Salesforce, Zendesk, Slack, HubSpot, and more. Visit our Integrations page in the dashboard, select your tool, and follow the setup guide. For custom integrations, our API documentation is available at docs.company.com/api. Enterprise customers get dedicated integration support.
+
+Q: Is there a mobile app?
+A: Yes, our mobile app is available for iOS (App Store) and Android (Google Play). It supports all core features. Push notifications for tickets and alerts are available. We recommend keeping the app updated for the best experience.
+
+---
+
+## SHIPPING & ORDERS (for product-based clients)
+
+Q: How do I track my order?
+A: Once your order ships, you will receive a confirmation email with a tracking number. You can track your order at our website under "My Orders" or directly on the courier's website. Standard delivery takes 5-7 business days; express delivery takes 1-2 business days.
+
+Q: I received a damaged item. What should I do?
+A: Take photos of the damaged item and packaging, then contact support within 48 hours of delivery. Share your order number and photos. We will arrange a free replacement or full refund at your discretion. Do not discard the damaged item until our team advises you.
+
+Q: Can I change or cancel my order?
+A: Orders can be changed or cancelled within 1 hour of placement. After that, the order enters processing and cannot be modified. Contact support immediately with your order number. If shipped, you will need to use our returns process.
+
+Q: What is the return policy?
+A: Items can be returned within 30 days of delivery, unused and in original packaging. Initiate a return under "My Orders" > "Return Item". Print the prepaid return label. Refunds are issued within 7-10 business days after we receive the item.
+
+---
+
+## ESCALATIONS & COMPLAINTS
+
+Q: I am not satisfied with the resolution. How do I escalate?
+A: If you are not happy with the outcome of your case, you can request escalation to a senior agent by replying to your support ticket with the word "ESCALATE". A supervisor will contact you within 24 hours. You may also email escalations@support.company.com with your case ID.
+
+Q: How do I file a formal complaint?
+A: Formal complaints can be submitted via our Complaints portal at company.com/complaints. Provide your account details, a description of the issue, and desired resolution. You will receive a case reference number and a formal response within 5 business days as per our service level agreement.
+
+Q: What is the average response time for support?
+A: Live chat: under 2 minutes. Phone support: under 5 minutes wait. Email/ticket: within 24 hours. Priority and Enterprise customers receive guaranteed response within 1 hour for all channels.
+
+---
+
+## PLANS & PRICING
+
+Q: What plans are available?
+A: We offer three plans: Starter (free, limited features), Professional ($29/month, full features), and Enterprise (custom pricing, dedicated support + SLA). Annual billing offers a 20% discount on all paid plans.
+
+Q: Can I upgrade or downgrade my plan?
+A: Yes, you can change your plan anytime from "Billing Settings". Upgrades take effect immediately and are prorated. Downgrades take effect at the start of the next billing cycle. No contracts or cancellation fees.
+
+Q: Do you offer a free trial?
+A: Yes, we offer a 14-day free trial on the Professional plan with no credit card required. At the end of the trial, you can choose to subscribe or your account reverts to the free Starter plan automatically.
